@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-paige-personal-site/static/css/main.073c9b0a.css",
+    "main.js": "/web-paige-personal-site/static/js/main.3834f8b3.js",
+    "static/js/787.13fd16ad.chunk.js": "/web-paige-personal-site/static/js/787.13fd16ad.chunk.js",
+    "static/media/logo.svg": "/web-paige-personal-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web-paige-personal-site/index.html",
+    "main.073c9b0a.css.map": "/web-paige-personal-site/static/css/main.073c9b0a.css.map",
+    "main.3834f8b3.js.map": "/web-paige-personal-site/static/js/main.3834f8b3.js.map",
+    "787.13fd16ad.chunk.js.map": "/web-paige-personal-site/static/js/787.13fd16ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3834f8b3.js"
+  ]
+}
